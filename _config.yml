@@ -21,7 +21,7 @@
 # Site
 name: MilkAndTea
 title: MilkAndTea's Blog
-logo: https://avatars.githubusercontent.com/u/109011406?v=4
+logo: 'assets/images/myIcon.png'
 favicon: assets/images/logo.png
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -55,7 +55,7 @@ authors:
   milkandtea:
     name: MilkAndTea
     display_name: Milkandtea
-    avatar: https://avatars.githubusercontent.com/u/109011406?v=4
+    avatar: 'assets/images/myIcon.png'
     email: k@luogu.org
     web: https://ghmilkandtea.github.io
     twitter: https://twitter.com/biya1024
