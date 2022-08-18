@@ -10,6 +10,10 @@ rating: 4.5
 # 测试
 $\KaTeX$
 
+$\KaTeX$
+
+$$\TeX$$
+
 $$\sum_{i=1}^n i^2$$
 
 ># test
